@@ -1,0 +1,1 @@
+namespace LoadBalancer.Api.Domain { public enum ServerHealth { Healthy, Unhealthy } }

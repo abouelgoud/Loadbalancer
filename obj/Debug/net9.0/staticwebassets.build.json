@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kMrzFMmNxia8GceUlMPN1cHj9SMfB1eWaDcAzvHCGgA=",
+  "Source": "LoadBalancer.Api",
+  "BasePath": "_content/LoadBalancer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

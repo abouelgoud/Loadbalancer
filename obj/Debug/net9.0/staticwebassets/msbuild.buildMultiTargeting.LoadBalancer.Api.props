@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LoadBalancer.Api.props" />
+</Project>
